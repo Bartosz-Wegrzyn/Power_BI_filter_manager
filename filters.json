@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Filter_ID",
+        "expression": {
+            "Column": {
+                "Expression": {
+                    "SourceRef": {
+                        "Entity": "E_name"
+                    }
+                },
+                "Property": "P_name"
+            }
+        },
+        "type": "Categorical",
+        "howCreated": 1,
+        "displayName": "D_name"
+    },
+    {
+        "name": "Filter_ID",
+        "expression": {
+            "Column": {
+                "Expression": {
+                    "SourceRef": {
+                        "Entity": "E_name"
+                    }
+                },
+                "Property": "P_name"
+            }
+        },
+        "type": "Categorical",
+        "howCreated": 1,
+        "displayName": "D_name"
+    }
+]
